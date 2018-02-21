@@ -16,7 +16,7 @@
 const char message[] =
 	"\n"
 	DOCKER_GREETING "\n"
-	"This message shows that your installation appears to be working correctly.\n"
+	"This message show that your installation appears to be working correctly.\n"
 	"\n"
 	"To generate this message, Docker took the following steps:\n"
 	" 1. The Docker client contacted the Docker daemon.\n"
